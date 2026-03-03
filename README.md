@@ -25,7 +25,7 @@ app.py: The main Streamlit application script.
 
 requirements.txt: List of Python dependencies for cloud deployment.
 
-DSA8501_CAT1_Notebook.ipynb: The complete data science notebook containing the Chapter ranking, Readability scoring, and EDA.
+The_Language_of_Law.ipynb: The complete data science notebook containing the Chapter ranking, Readability scoring, and EDA.
 
 The_Constitution_of_Kenya_2010.pdf: The source dataset.
 
